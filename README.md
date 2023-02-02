@@ -1,4 +1,4 @@
-# @web3-react-v6-connector/unipass
+# @unipasswallet/web3-react-v6-connector
 
 ## Example
 
