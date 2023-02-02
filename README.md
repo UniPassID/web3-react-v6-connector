@@ -2,7 +2,7 @@
 
 ## Example
 
-A demo app for web3-react is available [here](https://up-web3-react-demo.vercel.app/), and source code is available too: [Demo Code](https://github.com/UniPassID/web3-react-demo).
+A demo app for web3-react is available [here](https://up-web3-react-v6-demo.vercel.app/), and source code is available too: [Demo Code](https://github.com/UniPassID/we3-react-v6-demo).
 
 ## Installation
 
