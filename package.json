@@ -1,0 +1,39 @@
+{
+  "name": "@unipasswallet/web3-react-v6-connector",
+  "version": "1.0.1",
+  "description": "Web3-React V6 connector for the UniPass wallet",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "format": "prettier --write \"src/**/*.ts\"",
+    "lint": "tslint -p tsconfig.json",
+    "check": "npm run lint && npm run format",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UniPass/web3-react-v6-connector.git"
+  },
+  "author": "lay2",
+  "license": "ISC",
+  "homepage": "https://github.com/UniPass/web3-react-v6-connector#readme",
+  "dependencies": {
+    "@unipasswallet/ethereum-provider": "^1.0.1",
+    "@unipasswallet/popup-types": "^1.0.1",
+    "@web3-react/abstract-connector": "^6.0.7",
+    "@web3-react/types": "^6.0.7",
+    "ethers": "^5.7.2"
+  },
+  "peerDependencies": {
+    "@unipasswallet/ethereum-provider": "^1.0.1",
+    "@web3-react/abstract-connector": ">=6.0.7",
+    "@web3-react/types": ">=6.0.7",
+    "ethers": "^>=5.5.2"
+  },
+  "devDependencies": {
+    "prettier": "^2.7.1",
+    "tslint": "^6.1.3",
+    "tslint-config-prettier": "^1.18.0",
+    "typescript": "^4.8.4"
+  }
+}
