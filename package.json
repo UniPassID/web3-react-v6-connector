@@ -18,14 +18,14 @@
   "license": "ISC",
   "homepage": "https://github.com/UniPass/web3-react-v6-connector#readme",
   "dependencies": {
-    "@unipasswallet/ethereum-provider": "^1.0.1",
-    "@unipasswallet/popup-types": "^1.0.1",
+    "@unipasswallet/ethereum-provider": "^1.1.0",
+    "@unipasswallet/popup-types": "^1.1.0",
     "@web3-react/abstract-connector": "^6.0.7",
     "@web3-react/types": "^6.0.7",
     "ethers": "^5.7.2"
   },
   "peerDependencies": {
-    "@unipasswallet/ethereum-provider": "^1.0.1",
+    "@unipasswallet/ethereum-provider": "^1.1.0",
     "@web3-react/abstract-connector": ">=6.0.7",
     "@web3-react/types": ">=6.0.7",
     "ethers": "^>=5.5.2"
