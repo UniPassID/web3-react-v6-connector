@@ -12,11 +12,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/UniPass/web3-react-v6-connector.git"
+    "url": "git+https://github.com/UniPassID/web3-react-v6-connector.git"
   },
   "author": "lay2",
   "license": "ISC",
-  "homepage": "https://github.com/UniPass/web3-react-v6-connector#readme",
+  "homepage": "https://github.com/UniPassID/web3-react-v6-connector#readme",
   "dependencies": {
     "@unipasswallet/ethereum-provider": "^1.1.11",
     "@unipasswallet/popup-types": "^1.1.11",
