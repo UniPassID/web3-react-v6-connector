@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.10](https://github.com/UniPassID/web3-react-v6-connector/compare/v1.1.9...v1.1.10) (2024-03-11)
+
+
+### Bug Fixes
+
+* main ([4a3cba9](https://github.com/UniPassID/web3-react-v6-connector/commit/4a3cba9cfb7a213a7a4fb65d04a2064715406acc))
+
 ### [1.1.9](https://github.com/UniPass/web3-react-v6-connector/compare/v1.1.8...v1.1.9) (2023-05-10)
 
 ### 1.1.8 (2023-05-10)
